@@ -3,7 +3,7 @@ import axios from 'axios';
 import { getToken } from '../stores/authStore';
 
 const tagAPI = axios.create({
-  baseURL: 'http://127.0.0.1:8000/api'
+  baseURL: 'http://176.53.160.126:8000/api'
 });
 
 tagAPI.interceptors.request.use(config => {

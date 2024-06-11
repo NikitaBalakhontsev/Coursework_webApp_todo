@@ -4,7 +4,7 @@ import { getToken } from '../stores/authStore';
 import type { Category } from '../types';
 
 const categoryAPI = axios.create({
-    baseURL: 'http://127.0.0.1:8000/api'
+    baseURL: 'http://176.53.160.126:8000/api'
 });
 
 categoryAPI.interceptors.request.use(config => {

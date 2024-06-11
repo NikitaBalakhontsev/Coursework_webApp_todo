@@ -1,11 +1,9 @@
 // src/api/auth.ts
 import axios from 'axios';
 import { setToken, getToken, clearToken } from '../stores/authStore';
-// import { setUser, clearUser } from '../stores/userStore';
-// import { getUser } from './user';
 
 const authAPI = axios.create({
-  baseURL: 'http://127.0.0.1:8000/auth'
+  baseURL: 'http://176.53.160.126:8000/auth'
 });
 
 authAPI.interceptors.request.use(config => {
