@@ -31,7 +31,8 @@ ___
 ![image](https://github.com/NikitaBalakhontsev/Coursework_webApp_todo/assets/87572909/b633824c-a5b0-4b1c-a249-5a806a2006d0)
 
 ### Запуск из контейнера  
-![image](https://github.com/NikitaBalakhontsev/Coursework_webApp_todo/assets/87572909/75ad92dd-d241-4998-ac82-6e152050f59e)
+![image](https://github.com/user-attachments/assets/65fb695d-8fce-42fe-9a5e-2959ed1ac04b)
+
 
 
 
